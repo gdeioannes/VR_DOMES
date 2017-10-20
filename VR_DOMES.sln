@@ -1,9 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{C6730902-4879-F304-5E5D-E15B5C39B3A6}") = "VR_DOMES", "Assembly-CSharp.csproj", "{425AF5AC-F92C-1213-520C-D6F8A86673B9}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR_DOMES", "Assembly-CSharp.csproj", "{425AF5AC-F92C-1213-520C-D6F8A86673B9}"
 EndProject
-Project("{C6730902-4879-F304-5E5D-E15B5C39B3A6}") = "VR_DOMES", "Assembly-CSharp-Editor.csproj", "{ECBA806B-D195-A150-3DE4-A008B1A73E04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR_DOMES", "Assembly-CSharp-Editor.csproj", "{ECBA806B-D195-A150-3DE4-A008B1A73E04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
